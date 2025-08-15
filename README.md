@@ -2,7 +2,7 @@
 - 👀 I’m interested in Supernova Cosmology
 - 🌱 I’m currently learning ultraviolate photometric calibration of Type Ia Supernovae
 - 💞️ I’m collaborating with the Carnegie Supernova Project
-- 📫 How to reach me: syedauddin@tamu.edu
+- 📫 How to reach me: saushuvo@gmail.com
 
 <!---
 syeduddin/syeduddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
